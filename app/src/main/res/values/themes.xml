@@ -9,5 +9,9 @@
 
     <style name="Theme.BottomNavigation" parent="Base.Theme.BottomNavigation">
         <item name="android:statusBarColor">@color/bottom_nav_selec_item</item>
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
     </style>
 </resources>
